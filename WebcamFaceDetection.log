@@ -8,3 +8,11 @@ out. 18, 2024 11:53:59 PM br.aps.aps_6sem.WebcamFaceDetectionFX start
 INFO: Classificador Haar Cascade carregado com sucesso.
 out. 30, 2024 7:27:31 PM br.aps.aps_6sem.WebcamFaceDetectionFX start
 INFO: Classificador Haar Cascade carregado com sucesso.
+nov. 06, 2024 1:55:18 PM br.aps.aps_6sem.WebcamFaceDetectionFX start
+INFO: Classificador Haar Cascade carregado com sucesso.
+nov. 06, 2024 1:58:46 PM br.aps.aps_6sem.WebcamFaceDetectionFX start
+SEVERE: Erro: O arquivo do classificador não existe no caminho especificado.
+nov. 06, 2024 1:58:46 PM br.aps.aps_6sem.WebcamFaceDetectionFX start
+SEVERE: Caminho procurado: C:\WS-JetBrains\aps_6sem\Cascade\haarcascade_frontalcatface_default.xml
+nov. 06, 2024 2:00:10 PM br.aps.aps_6sem.WebcamFaceDetectionFX start
+INFO: Classificador Haar Cascade carregado com sucesso.
